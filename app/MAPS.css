@@ -1,0 +1,39 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilebutton_2 */
+#MAPS_mobilebutton_2 {
+
+}
+.ui-btn.MAPS_mobilebutton_2 {
+
+}
+/* mobilecontainer */
+.ui-content.MAPS_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobiletextinput_5 */
+.MAPS_mobiletextinput_5 {
+	margin: 4px 0px 4px 0px;
+}
+/* mobiletextinput_4 */
+.MAPS_mobiletextinput_4 {
+	margin: 4px 0px 4px 0px;
+}
+/* googlemap_6 */
+.MAPS_googlemap_6 {
+	width: 320px; height: 200px;
+	margin: 4px 0px 4px 0px;
+}
+/* marker_7 */
+.MAPS_marker_7 {
+	text-shadow:none;
+	color:black;
+	font-family:Arial;
+}
+/* mobilefooter */
+.MAPS_mobilefooter {
+	min-height:38px;
+}

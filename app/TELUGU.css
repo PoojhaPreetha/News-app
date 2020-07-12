@@ -1,0 +1,48 @@
+
+/* Define default spinner */
+.ui-icon-loading {
+	background: url("../libs/jquerymobile/1.4.5/images/ajax-loader.gif") repeat scroll 0 0 / 46px 46px transparent!important;
+}
+/* mobilecontainer */
+.ui-content.TELUGU_mobilecontainer {
+	padding: 15px 15px 15px 15px;
+}
+/* mobilebutton_2 */
+#TELUGU_mobilebutton_2 {
+
+}
+.ui-btn.TELUGU_mobilebutton_2 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_3 */
+#TELUGU_mobilebutton_3 {
+
+}
+.ui-btn.TELUGU_mobilebutton_3 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_4 */
+#TELUGU_mobilebutton_4 {
+
+}
+.ui-btn.TELUGU_mobilebutton_4 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_5 */
+#TELUGU_mobilebutton_5 {
+
+}
+.ui-btn.TELUGU_mobilebutton_5 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilebutton_6 */
+#TELUGU_mobilebutton_6 {
+
+}
+.ui-btn.TELUGU_mobilebutton_6 {
+	margin: 4px 5px 4px 5px;
+}
+/* mobilefooter */
+.TELUGU_mobilefooter {
+	min-height:38px;
+}
